@@ -1,1 +1,1 @@
-# HackerRank-C--
+# My HackerRank's solutions in C#
